@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Olsen;Jose;Barros;
+FN:Jose Barros Olsen
+TITLE:CEO
+ORG:Anteroz
+ADR;WORK:Madrid;Norway
+TEL;WORK;VOICE:+4794974967
+TEL;CELL;VOICE:+4794974967
+URL;WORK:https://www.anteroz.com
+EMAIL;PREF;INTERNET:jose@anteroz.com
+REV:20140602T09:44:19Z
+END:VCARD
