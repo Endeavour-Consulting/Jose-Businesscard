@@ -1,12 +1,9 @@
 ﻿<html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0">
-    <meta
-      http-equiv="X-UA-Compatible"
-      content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400i|Roboto:400,500,700,900" rel="stylesheet">
     <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css">
     <link rel="stylesheet" href="./css/fonts.css">
@@ -17,6 +14,7 @@
     <link rel="stylesheet" href="./css/icons-panel.css">
     <link rel="stylesheet" href="./css/modal.css">
     <link rel="stylesheet" href="./css/media.css">
+    
     <title>José Barros Olsen</title>
   </head>
   <body>
