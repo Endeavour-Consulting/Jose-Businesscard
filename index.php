@@ -31,7 +31,7 @@
             <div class="header-image">
               <img
                 src="./images/background.jpg"
-                alt="Mimmi - header image">
+                alt="José Barros Olsen: header image">
             </div>
               <img src="./images/logo.png" alt="Logo" class="logo">
           </div>
@@ -39,7 +39,7 @@
             <div class="user-picture">
               <img
                 src="./images/profile-picture.png"
-                alt>
+                alt="José Barros Olsen: profile picture">
             </div>
             <div class="profile_name text-center">
               <span>José Barros Olsen</span>
@@ -61,7 +61,7 @@
                 href="https://www.anteroz.com/the-brand-en">
                 <img
                   src="./images/icons/webpage.svg"
-                  alt="world wide web"
+                  alt="José Barros Olsen: world wide web"
                   class="svg">
               </a>
             </li>
@@ -69,7 +69,7 @@
               <a href="tel:+4794974967">
                 <img
                   src="./images/icons/phone.svg"
-                  alt="call"
+                  alt="José Barros Olsen: call"
                   class="svg">
               </a>
             </li>
@@ -77,7 +77,7 @@
               <a href="sms:+4794974967">
                 <img
                   src="./images/icons/sms.svg"
-                  alt="sms"
+                  alt="José Barros Olsen: sms"
                   class="svg">
               </a>
             </li>
@@ -85,7 +85,7 @@
               <a href="mailto:jose@anteroz.com">
                 <img
                   src="./images/icons/mail.svg"
-                  alt="mail"
+                  alt="José Barros Olsen: mail"
                   class="svg">
               </a>
             </li>
@@ -95,7 +95,7 @@
                 href="./files/José-Barros-Olsen-business-card..vcf">
                 <img
                   src="./images/icons/download.svg"
-                  alt="download"
+                  alt="José Barros Olsen: download"
                   class="svg">
               </a>
             </li>
@@ -109,7 +109,7 @@
                 onclick="openModal('instagram')">
                 <img
                   src="./images/icons/instagram.svg"
-                  alt="instagram"
+                  alt="José Barros Olsen: instagram"
                   class="svg">
               </a>
             </li>
@@ -119,7 +119,7 @@
                 onclick="openModal('facebook')">
                 <img
                   src="./images/icons/facebook.svg"
-                  alt="facebook"
+                  alt="José Barros Olsen: facebook"
                   class="svg">
               </a>
             </li>
@@ -130,7 +130,7 @@
                 href="https://www.google.com.ua/search?q=Anteroz,+Pje.+Lucero,+1,+28047+Madrid,+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&ludocid=12181515388131447326#lrd=0xd4188036bf283e3:0xa90d6fb47f87921e,3">
                 <img
                   src="./images/icons/google-review.svg"
-                  alt="google"
+                  alt="José Barros Olsen: google"
                   class="svg">
               </a>
             </li>
@@ -141,7 +141,7 @@
                 href="https://www.youtube.com/watch?v=dVcav3uVNvE">
                 <img
                   src="./images/icons/youtube.svg"
-                  alt="youtube"
+                  alt="José Barros Olsen: youtube"
                   class="svg">
               </a>
             </li>
@@ -152,7 +152,7 @@
                 href="https://www.linkedin.com/company/anteroz/">
                 <img
                   src="./images/icons/linkedin.svg"
-                  alt="linkedin"
+                  alt="José Barros Olsen: linkedin"
                   class="svg">
               </a>
             </li>
