@@ -3,6 +3,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <meta property="og:url" content="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="José Barros Olsen: Co-Founder & CEO" />
+    <meta property="og:description" content="Co-Founder & CEO" />
+    <meta property="og:image" content="<?php echo "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ?>images/profile-picture.png" />
 
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400i|Roboto:400,500,700,900" rel="stylesheet">
     <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css">
@@ -30,14 +36,6 @@
               <img src="./images/logo.png" alt="Logo" class="logo">
           </div>
           <div class="content">
-            <!-- <div
-              class="share-btn"
-              id="shareButton"
-              onClick="mobileShare()">
-              <img
-                src="./images/icons/share-arrow.svg"
-                alt>
-            </div> -->
             <div class="user-picture">
               <img
                 src="./images/profile-picture.png"
